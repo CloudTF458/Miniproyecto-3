@@ -7,7 +7,7 @@ public class ServicioDeSalud {
 
     public static void main(String[] args) 
     {
-       Entrada ventana = new Entrada();
+       Presentacion ventana = new Presentacion();
        ventana.setVisible(true);
     }
 }
